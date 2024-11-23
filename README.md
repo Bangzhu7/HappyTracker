@@ -1,6 +1,6 @@
-# A assignment3 Flet app
+# Flet app
 
-An example of a minimal Flet app.
+An example of a happy tracker Flet app.
 
 To run the app:
 
